@@ -1,5 +1,5 @@
 # Lending Case Study
-> Analyse and identify variables from given dataset, leverage loan applicant by potential default and non-default list and summarize results in Visualizations by plotting Univarient, Bivarient and MultiVarient graphs.
+> Analyse and identify key variables from given dataset, leverage loan applicant by potential default and non-default list and summarize results in Visualizations by plotting Univarient, Bivarient and MultiVarient graphs.
 
 
 ## Table of Contents
